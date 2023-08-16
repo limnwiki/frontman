@@ -1,6 +1,6 @@
 # frontman - markdown frontmatter parser
 
-I made this tool for use with [cmark](https://github.com/commonmark/cmark) on my [personal site](https://github.com/limnwiki/limn.wiki) in conjunction with my static site generator [stags](https://github.com/limnwiki/stags)
+I made this tool for use with [cmark](https://github.com/commonmark/cmark) on my [personal site](https://github.com/limnwiki/website) in conjunction with my static site generator [stags](https://github.com/limnwiki/stags)
 
 # Usage
 - `-i MARKDOWNFILE` selects input file
