@@ -2,6 +2,8 @@
 
 I made this tool for use with [cmark](https://github.com/commonmark/cmark) on my [personal site](https://github.com/limnwiki/website) in conjunction with my static site generator [stags](https://github.com/limnwiki/stags)
 
+**DISCLAIMER: this tool does not fully implement YAML**
+
 # Usage
 - `-i MARKDOWNFILE` selects input file
   
